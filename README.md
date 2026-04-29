@@ -1,1 +1,12 @@
-# cfip
+Cloudflare优选IP
+测试地:中国四川联通
+
+订阅链接:https://raw.githubusercontent.com/HandsomeMJZ/cfip/refs/heads/main/best_ips.txt
+
+使用方法:
+1.复制订阅链接
+2.打开EdgeTunnel后台
+3.优选订阅生成-优选订阅模式-自定义
+4.在订阅接口-API-URL粘贴订阅链接
+5.验证可用性-追加API
+6.保存重新订阅
