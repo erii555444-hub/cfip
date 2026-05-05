@@ -1,21 +1,21 @@
-IP地址,端口号,TLS,网络延迟,下载速度,出站IP,IP类型,数据中心,源IP位置,地区,城市,ASN号码,ASN组织
-114.33.57.170,443,true,49ms,-,2001:b011:e607:1803::5e0,IPv6,TPE,TW,Asia Pacific,Taipei,AS3462,Data Communication Business Group
-13.231.5.138,443,true,60ms,-,2406:da14:94:7600:c37f:eea5:170b:febe,IPv6,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-1.162.72.5,8443,true,65ms,-,2001:b011:3808:ecc8:31ef:c97b:f6f:2a1b,IPv6,TPE,TW,Asia Pacific,Taipei,AS3462,Data Communication Business Group
-13.229.65.190,443,true,70ms,-,2406:da18:4d6:2200:bf6d:8e35:d66e:3ec9,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-13.212.57.14,443,true,74ms,-,2406:da18:1e6f:f600:8edb:a4b5:dce2:5d25,IPv6,SIN,SG,Asia Pacific,Singapore,AS16509,"Amazon.com, Inc."
-103.201.131.96,8443,true,103ms,-,2a12:a301:2009::13,IPv6,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
-103.117.103.70,443,true,104ms,-,2403:18c0:1001:16c:10bd:d2ff:fe44:ac76,IPv6,NRT,JP,Asia Pacific,Tokyo,AS906,DMIT Cloud Services
-103.201.130.164,8443,true,106ms,-,2a12:a301:2008::10da,IPv6,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
-103.117.103.229,443,true,106ms,-,2403:18c0:1001:568:be24:11ff:fef4:e7a5,IPv6,NRT,JP,Asia Pacific,Tokyo,AS906,DMIT Cloud Services
-103.201.130.54,8443,true,109ms,-,2a12:a301:2008::1008,IPv6,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
-109.71.242.243,8443,true,111ms,-,109.71.242.243,IPv4,DME,RU,Europe,Moscow,AS57494,Adman LLC
-103.201.130.241,443,true,113ms,-,2a12:a301:2008::105d,IPv6,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
-126.220.82.161,443,true,120ms,-,2400:2653:28a0:7400:6ed8:6d16:317c:2490,IPv6,KIX,JP,Asia Pacific,Osaka,AS17676,SoftBank Corp.
-103.125.216.82,8443,true,122ms,-,103.125.216.82,IPv4,NRT,JP,Asia Pacific,Tokyo,AS36007,"Kamatera, Inc."
-108.160.132.132,443,true,124ms,-,2001:19f0:7001:7bb:5400:6ff:fe1b:e433,IPv6,NRT,JP,Asia Pacific,Tokyo,AS20473,"The Constant Company, LLC"
-104.238.151.14,8443,true,126ms,-,104.238.151.14,IPv4,NRT,JP,Asia Pacific,Tokyo,AS20473,"The Constant Company, LLC"
-108.61.182.14,443,true,130ms,-,2401:c080:1000:2372:5400:6ff:fe13:ca7d,IPv6,NRT,JP,Asia Pacific,Tokyo,AS20473,"The Constant Company, LLC"
-109.71.11.98,2053,true,131ms,-,109.71.11.98,IPv4,ARN,RU,Europe,Stockholm,AS50340,JSC Selectel
-129.150.48.17,443,true,135ms,-,2603:c024:4509:d285:0:1111:2222:3333,IPv6,SIN,SG,Asia Pacific,Singapore,AS31898,Oracle Corporation
-129.150.46.253,443,true,135ms,-,2a09:bac1:6540:8::2e4:ca,IPv6,SIN,SG,Asia Pacific,Singapore,AS13335,"Cloudflare, Inc."
+网络延迟,下载速度,地区,城市,IP:PORT
+49ms,-,Asia Pacific,Taipei,114.33.57.170:443
+60ms,-,Asia Pacific,Tokyo,13.231.5.138:443
+65ms,-,Asia Pacific,Taipei,1.162.72.5:8443
+70ms,-,Asia Pacific,Singapore,13.229.65.190:443
+74ms,-,Asia Pacific,Singapore,13.212.57.14:443
+103ms,-,Asia Pacific,Tokyo,103.201.131.96:8443
+104ms,-,Asia Pacific,Tokyo,103.117.103.70:443
+106ms,-,Asia Pacific,Tokyo,103.201.130.164:8443
+106ms,-,Asia Pacific,Tokyo,103.117.103.229:443
+109ms,-,Asia Pacific,Tokyo,103.201.130.54:8443
+111ms,-,Europe,Moscow,109.71.242.243:8443
+113ms,-,Asia Pacific,Tokyo,103.201.130.241:443
+120ms,-,Asia Pacific,Osaka,126.220.82.161:443
+122ms,-,Asia Pacific,Tokyo,103.125.216.82:8443
+124ms,-,Asia Pacific,Tokyo,108.160.132.132:443
+126ms,-,Asia Pacific,Tokyo,104.238.151.14:8443
+130ms,-,Asia Pacific,Tokyo,108.61.182.14:443
+131ms,-,Europe,Stockholm,109.71.11.98:2053
+135ms,-,Asia Pacific,Singapore,129.150.48.17:443
+135ms,-,Asia Pacific,Singapore,129.150.46.253:443
